@@ -2,7 +2,7 @@
 
 A lightweight platformer to get familiar with the `pygame` package in python.
 
-To run the src, simply install the pygame community edition package in the terminal: 
+To run the src, simply install the pygame community edition package, and pytmx in the terminal: 
 
 ```
 pip install pygame-ce pytmx
